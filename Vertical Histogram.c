@@ -1,4 +1,3 @@
-/*Artemis Photiou*/
 /*Vertical Histogram based on student's grades*/
 #include<stdio.h>
 #include<ctype.h>
